@@ -5,7 +5,7 @@
 const config = {
     db:{
         hostname: "localhost",
-        port: "3306",
+        port: "8000",
         dialect: "mysql",
         username: "weather",
         password: "1234",
